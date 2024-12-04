@@ -1,0 +1,9 @@
+numpy
+gensim
+jieba
+openai
+scikit-learn
+transformers
+torch
+python-dotenv
+bert-embedding  
